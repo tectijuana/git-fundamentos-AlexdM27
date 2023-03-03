@@ -30,5 +30,6 @@ Duran Martinez Jesus Alejandro
 
 </pre>
 ![apagada](https://github.com/tectijuana/git-fundamentos-AlexdM27/blob/main/apagada.jpg)
-![codigo](https://github.com/tectijuana/git-fundamentos-AlexdM27/blob/main/codigo.PNG)
+
 ![encendida](https://github.com/tectijuana/git-fundamentos-AlexdM27/blob/main/encendida.jpg)
+![codigo](https://github.com/tectijuana/git-fundamentos-AlexdM27/blob/main/codigo.PNG)
